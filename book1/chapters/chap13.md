@@ -24,7 +24,7 @@
 |(Fashion) MNIST image classification|TF2|[notebook][mnist_tf]
 |IMDB movie review sentiment classification |TF2|[notebook][imdb_tf]
 |Hierarchical Bayes for BNNs| PyMC3 | [notebook][bnn]
-
+|Minimal Autograd Implementation|Python|[Link][https://github.com/karpathy/micrograd]
 <!--
 
 |Auto-MPG regression| TF2| [Keras tutorial](https://www.tensorflow.org/tutorials/keras/regression)
